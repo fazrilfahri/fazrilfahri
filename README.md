@@ -12,17 +12,17 @@
 
 Here are some case studies and recent projects that I have completed::
 
-1. **[Microcredential Scholarship Program Data Science Project in Kemenristekdikti.]()**
+1. **[Microcredential Scholarship Program Data Science Project in Kemenristekdikti.](https://github.com/fazrilfahri/Microcredential-Scholarship-Program-Data-Science/blob/9de967f2b40f53264b4d1a08a6c0b13d09c2d7e4/README.md)**
    - Data Science:
       - Successfully built and deployed a car price prediction model using Linear Regression.
 
-3. **[Junior Developer Scholarship Huawei AI.]()**
+3. **[Junior Developer Scholarship Huawei AI.](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/4f532599f0bb5e97e8ae76f04a1a88f7c4d13422/README.md)**
    - Machine Learning, Deep Learning:
       - Best Participants of Batch 3 Digital Talent Scholarship 2022
       - Gained practical experience with TensorFlow for tensor manipulation and operations.
       - Developed expertise in fashion image classification using Convolutional Neural Networks (CNN).
 
-4. **[Artificial Intelligence Technology and Research BISA-AI.]()** 
+4. **[Artificial Intelligence Technology and Research BISA-AI.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/README.md)** 
    - Machine Learning:
       - Achieved 91% accuracy in predicting clothing sales.
       - Optimized smoking signal detection with an 82.86% accuracy rate.
