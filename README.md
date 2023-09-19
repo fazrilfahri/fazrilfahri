@@ -12,29 +12,18 @@
 
 Here are some case studies and recent projects that I have completed::
 
-1. **[Microcredential Scholarship Program Data Science Project in Kemenristekdikti.](https://github.com/fazrilfahri/Microcredential-Scholarship-Program-Data-Science/blob/9de967f2b40f53264b4d1a08a6c0b13d09c2d7e4/README.md)**
-   - Data Science:
-      - Successfully built and deployed a car price prediction model using Linear Regression.
+1. **Microcredential Scholarship Program Data Science Project in Kemenristekdikti.**
+- [Developing a linear regression model to predict car prices using feature data. Model achieves an R-squared score of 62% and has been deployed on Heroku.](https://github.com/fazrilfahri/Microcredential-Scholarship-Program-Data-Science.git)
 
-3. **[Junior Developer Scholarship Huawei AI.](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/4f532599f0bb5e97e8ae76f04a1a88f7c4d13422/README.md)**
-   - Machine Learning, Deep Learning:
-      - Best Participants of Batch 3 Digital Talent Scholarship 2022
-      - Gained practical experience with TensorFlow for tensor manipulation and operations.
-      - Developed expertise in fashion image classification using Convolutional Neural Networks (CNN).
-
-4. **[Artificial Intelligence Technology and Research BISA-AI.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/README.md)** 
-   - Machine Learning:
-      - Achieved 91% accuracy in predicting clothing sales.
-      - Optimized smoking signal detection with an 82.86% accuracy rate.
-   - Data Science:
-      - Explored data visualization techniques.
-   - Industrial Project:
-      - Specialized in intelligent analysis, particularly in data cleaning.
-   - Image Processing:
-      - Achieved a perfect 100% accuracy in analyzing Batik Dataset results.
-      - Studied the impact of noise on images.
-   - Visual Recognition:
-      - Successfully classified land use using Convolutional Neural Networks with remote sensing data.
+2. **Junior Developer Scholarship Huawei AI.**
+- [Gained practical experience with TensorFlow for tensor manipulation and operations.](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/75ec62dd70a1c26b54334c54e0ea13ad014953b8/Utilizing%20TensorFlow%20for%20Tensor%20Manipulation%20and%20Formation.ipynb)
+- [Developed expertise in fashion image classification using Convolutional Neural Networks (CNN).](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/75ec62dd70a1c26b54334c54e0ea13ad014953b8/Fashion%20Image%20Classification.ipynb)
+  
+3. **Artificial Intelligence Technology and Research BISA-AI.** 
+- [Developed a clothing sales prediction model with 91% accuracy.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/56fdd8d9634d16231f787fc38bced48568f2ff21/1.%20Machine%20Learning/Acc%2091%25%20E-shop.ipynb)
+- [Classified land use using CNNs and handled an 8,026-image dataset.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/56fdd8d9634d16231f787fc38bced48568f2ff21/5.%20Visual%20Recognition/1.%20ucmerced_Fazril_Fahri.ipynb)
+- [Achieved 82.86% accuracy in smoking signal detection.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/56fdd8d9634d16231f787fc38bced48568f2ff21/1.%20Machine%20Learning/Optimizing%20Smoking%20Signal%20Detection.ipynb)
+- [Achieved 99% precision in evaluating Batik Dataset and analyzed image noise.](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/tree/56fdd8d9634d16231f787fc38bced48568f2ff21/4.%20Image%20Processing)
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
